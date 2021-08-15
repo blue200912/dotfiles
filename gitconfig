@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = blue200912@gmail.com
+	name = Cheng Chen
